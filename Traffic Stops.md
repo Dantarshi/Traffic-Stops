@@ -47,28 +47,7 @@ df.info
 
 
 
-    <bound method DataFrame.info of                                         SeqID Date Of Stop Time Of Stop  \
-    0        fbc324ab-bc8d-4743-ba23-7f9f370005e1    8/11/2019     20:02:00   
-    1        a6d904ec-d666-4bc3-8984-f37a4b31854d    8/12/2019     13:41:00   
-    2        54a64f6a-df28-4b65-a335-08883866aa46    8/12/2019     21:00:00   
-    3        cf5479b6-9bc7-4216-a7b2-99e57ae932af    8/12/2019     21:43:00   
-    4        5601ca35-8ee7-4f8e-9208-d89cde96d469    8/12/2019     21:30:00   
-    ...                                       ...          ...          ...   
-    1048570  ba2c9138-fb18-4949-8923-840454529d1e   10/15/2018      7:25:00   
-    1048571  ba2c9138-fb18-4949-8923-840454529d1e   10/15/2018      7:25:00   
-    1048572  69710f76-91e2-4ac7-9256-0f8a7588820f   10/15/2018      7:48:00   
-    1048573  69710f76-91e2-4ac7-9256-0f8a7588820f   10/15/2018      7:48:00   
-    1048574  fd371547-6c8c-42b1-acba-4b92ed2093ee   10/22/2018      9:34:00   
     
-            Agency                 SubAgency  \
-    0          MCP    2nd District, Bethesda   
-    1          MCP    2nd District, Bethesda   
-    2          MCP  5th District, Germantown   
-    3          MCP  5th District, Germantown   
-    4          MCP    2nd District, Bethesda   
-    ...        ...                       ...   
-    1048570    MCP     4th District, Wheaton   
-    1048571    MCP     4th District, Wheaton   
     1048572    MCP     4th District, Wheaton   
     1048573    MCP     4th District, Wheaton   
     1048574    MCP     4th District, Wheaton   

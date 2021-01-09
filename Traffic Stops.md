@@ -48,65 +48,6 @@ df.info
 
 
     
-    1048572    MCP     4th District, Wheaton   
-    1048573    MCP     4th District, Wheaton   
-    1048574    MCP     4th District, Wheaton   
-    
-                                                   Description  \
-    0        LEAVING UNATTENDED VEH. W/O STOPPING ENGINE, L...   
-    1        EXCEEDING POSTED MAXIMUM SPEED LIMIT: 85 MPH I...   
-    2        DRIVING VEH W/ TV-TYPE RECEIVING VIDEO EQUIP T...   
-    3        DRIVING VEHICLE ON HIGHWAY WITH SUSPENDED REGI...   
-    4        FAILURE OF LICENSEE TO NOTIFY ADMINISTRATION O...   
-    ...                                                    ...   
-    1048570  DRIVER USING HANDS TO USE HANDHELD TELEPHONE W...   
-    1048571  DRIVER USING HANDS TO USE HANDHELD TELEPHONE W...   
-    1048572  DISPLAYING EXPIRED REGISTRATION PLATE ISSUED B...   
-    1048573  DRIVING VEHICLE ON HIGHWAY WITHOUT CURRENT REG...   
-    1048574  DISPLAYING EXPIRED REGISTRATION PLATE ISSUED B...   
-    
-                                Location   Latitude  Longitude Accident Belts  \
-    0          CORDELL ST @ NORFOLK AVE.  38.989743 -77.097770       No    No   
-    1           NBI270 AT MIDDLEBROOK RD  39.174110 -77.246170       No    No   
-    2                 MIDDLEBROOK AN 355  39.182016 -77.238221       No    No   
-    3        GERMANTOWN RD AND ALE HOUSE  39.160508 -77.284023       No    No   
-    4                      EASTWEST/ 355  38.984247 -77.090548       No    No   
-    ...                              ...        ...        ...      ...   ...   
-    1048570         GEORGIA@EMORY CHURCH  39.132733 -77.071192       No    No   
-    1048571         GEORGIA@EMORY CHURCH  39.132733 -77.071192       No    No   
-    1048572  OLNEY SANDY SPRING@HOMELAND  39.154358 -77.068938       No    No   
-    1048573  OLNEY SANDY SPRING@HOMELAND  39.154358 -77.068938       No    No   
-    1048574                  GEORGIA@ICC  39.116593 -77.072660       No    No   
-    
-            Personal Injury Property Damage Fatal Commercial License HAZMAT  \
-    0                    No              No    No                 No     No   
-    1                    No              No    No                 No     No   
-    2                    No              No    No                 No     No   
-    3                    No              No    No                 No     No   
-    4                    No              No    No                 No     No   
-    ...                 ...             ...   ...                ...    ...   
-    1048570              No              No    No                 No     No   
-    1048571              No              No    No                 No     No   
-    1048572              No              No    No                 No     No   
-    1048573              No              No    No                 No     No   
-    1048574              No              No    No                 No     No   
-    
-            Commercial Vehicle Alcohol Work Zone Search Conducted  \
-    0                       No      No        No               No   
-    1                       No      No        No               No   
-    2                       No      No        No               No   
-    3                       No      No        No               No   
-    4                       No      No        No               No   
-    ...                    ...     ...       ...              ...   
-    1048570                 No      No        No               No   
-    1048571                 No      No        No               No   
-    1048572                 No      No        No               No   
-    1048573                 No      No        No               No   
-    1048574                 No      No        No               No   
-    
-            Search Disposition Search Outcome Search Reason  \
-    0                      NaN       Citation           NaN   
-    1                      NaN       Citation           NaN   
     2                      NaN       Citation           NaN   
     3                      NaN       Citation           NaN   
     4                      NaN       Citation           NaN   

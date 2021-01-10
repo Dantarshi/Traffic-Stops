@@ -47,29 +47,7 @@ df.info
 
 
 
-    
-    2                      NaN       Citation           NaN   
-    3                      NaN       Citation           NaN   
-    4                      NaN       Citation           NaN   
-    ...                    ...            ...           ...   
-    1048570                NaN        Warning           NaN   
-    1048571                NaN        Warning           NaN   
-    1048572                NaN        Warning           NaN   
-    1048573                NaN        Warning           NaN   
-    1048574                NaN        Warning           NaN   
-    
-            Search Reason For Stop Search Type Search Arrest Reason State  \
-    0                   21-1101(a)         NaN                  NaN    MD   
-    1                     21-801.1         NaN                  NaN    MD   
-    2                      21-1129         NaN                  NaN    MD   
-    3                    13-401(h)         NaN                  NaN    MD   
-    4                   21-201(a1)         NaN                  NaN    MD   
-    ...                        ...         ...                  ...   ...   
-    1048570          21-1124.2(d2)         NaN                  NaN    MD   
-    1048571          21-1124.2(d2)         NaN                  NaN    MD   
-    1048572              13-411(f)         NaN                  NaN    MD   
-    1048573              13-411(f)         NaN                  NaN    MD   
-    1048574              13-411(f)         NaN                  NaN    MD   
+  
     
                  VehicleType    Year    Make    Model       Color Violation Type  \
     0        02 - Automobile  2016.0  TOYOTA    CAMRY      SILVER       Citation   

@@ -48,41 +48,8 @@ df.info
 
 
   
-    
-                 VehicleType    Year    Make    Model       Color Violation Type  \
-    0        02 - Automobile  2016.0  TOYOTA    CAMRY      SILVER       Citation   
-    1        02 - Automobile  2016.0   HONDA    CIVIC        GRAY       Citation   
-    2        02 - Automobile  2016.0     KIA      SDN      SILVER       Citation   
-    3        02 - Automobile  2003.0  TOYOTA   SOLARA       BLACK       Citation   
-    4        02 - Automobile  2001.0  NISSAN   MAXIMA      SILVER       Citation   
-    ...                  ...     ...     ...      ...         ...            ...   
-    1048570  02 - Automobile  2006.0    AUDI  A4 COMV  GREEN, LGT        Warning   
-    1048571  02 - Automobile  2006.0    AUDI  A4 COMV  GREEN, LGT        Warning   
-    1048572  02 - Automobile  2013.0     BMW      528  BLUE, DARK        Warning   
-    1048573  02 - Automobile  2013.0     BMW      528  BLUE, DARK        Warning   
-    1048574  02 - Automobile  2012.0   MAZDA  MAZDA 3      SILVER        Warning   
-    
-                    Charge                 Article  Contributed To Accident  \
-    0           21-1101(a)  Transportation Article                    False   
-    1             21-801.1  Transportation Article                    False   
-    2              21-1129  Transportation Article                    False   
-    3            13-401(h)  Transportation Article                    False   
-    4            16-116(a)  Transportation Article                    False   
-    ...                ...                     ...                      ...   
-    1048570  21-1124.2(d2)  Transportation Article                    False   
-    1048571  21-1124.2(d2)  Transportation Article                    False   
-    1048572      13-411(f)  Transportation Article                    False   
-    1048573      13-411(d)  Transportation Article                    False   
-    1048574      13-411(f)  Transportation Article                    False   
-    
-              Race Gender    Driver City Driver State DL State        Arrest Type  \
-    0        BLACK      M  SILVER SPRING           MD       MD  A - Marked Patrol   
-    1        WHITE      M  SILVER SPRING           MD       MD  A - Marked Patrol   
-    2        BLACK      M   GAITHERSBURG           MD       MD  A - Marked Patrol   
-    3        BLACK      M     GERMANTOWN           MD       MD  A - Marked Patrol   
-    4        BLACK      M  SILVER SPRING           MD       MD  A - Marked Patrol   
-    ...        ...    ...            ...          ...      ...                ...   
-    1048570  BLACK      F         ASHTON           MD       MD  A - Marked Patrol   
+   
+    Marked Patrol   
     1048571  BLACK      F         ASHTON           MD       MD  A - Marked Patrol   
     1048572  WHITE      M          OLNEY           MD       MD  A - Marked Patrol   
     1048573  WHITE      M          OLNEY           MD       MD  A - Marked Patrol   

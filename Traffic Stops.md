@@ -50,48 +50,6 @@ df.info
   
    
    
-</table>
-</div>
-
-
-
-
-```python
-df.isna().any()
-```
-
-
-
-
-    SeqID                      False
-    Date Of Stop               False
-    Time Of Stop               False
-    Agency                     False
-    SubAgency                  False
-    Description                 True
-    Location                    True
-    Latitude                   False
-    Longitude                  False
-    Accident                   False
-    Belts                      False
-    Personal Injury            False
-    Property Damage            False
-    Fatal                      False
-    Commercial License         False
-    HAZMAT                     False
-    Commercial Vehicle         False
-    Alcohol                    False
-    Work Zone                  False
-    Search Conducted            True
-    Search Disposition          True
-    Search Outcome              True
-    Search Reason               True
-    Search Reason For Stop      True
-    Search Type                 True
-    Search Arrest Reason        True
-    State                       True
-    VehicleType                False
-    Year                        True
     Make                        True
     Model                       True
     Color                       True

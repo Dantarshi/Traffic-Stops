@@ -50,21 +50,7 @@ df.info
   
    
    
-    Make                        True
-    Model                       True
-    Color                       True
-    Violation Type             False
-    Charge                     False
-    Article                     True
-    Contributed To Accident    False
-    Race                       False
-    Gender                     False
-    Driver City                 True
-    Driver State                True
-    DL State                    True
-    Arrest Type                False
-    Geolocation                False
-    dtype: bool
+    
 
 
 

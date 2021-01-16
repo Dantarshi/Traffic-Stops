@@ -51,39 +51,6 @@ df.info
    
    
     
-
-
-
-
-```python
-df.isna().sum()
-```
-
-
-
-
-    SeqID                            0
-    Date Of Stop                     0
-    Time Of Stop                     0
-    Agency                           0
-    SubAgency                        0
-    Description                      7
-    Location                         1
-    Latitude                         0
-    Longitude                        0
-    Accident                         0
-    Belts                            0
-    Personal Injury                  0
-    Property Damage                  0
-    Fatal                            0
-    Commercial License               0
-    HAZMAT                           0
-    Commercial Vehicle               0
-    Alcohol                          0
-    Work Zone                        0
-    Search Conducted            609497
-    Search Disposition          991293
-    Search Outcome              628482
     Search Reason               991293
     Search Reason For Stop      609649
     Search Type                 991300

@@ -91,27 +91,7 @@ df.drop_duplicates(keep='first',inplace=True)
 ```
 
 
-```python
-duplicates = df[df.duplicated()]
-print(len(duplicates))
-```
-
-    0
-    
-
-
-```python
-for col in df.columns:
-    print(col, '\n', df[col].value_counts(normalize=True).head(10), '\n\n')
-```
-
-    SeqID 
-     33c49de3-9e36-4f36-9326-b59a95e86fe8    0.000056
-    28c5bfc1-5670-4751-be16-e1d83cda20f0    0.000040
-    859768f4-bde0-427b-a60f-07b1e2aaadc4    0.000037
-    c474e98e-128c-40e0-a487-d988cc67f0bd    0.000037
-    42ee969e-cc65-4557-bc1a-cefa6b35cba8    0.000036
-    8fe624e5-2bef-4cf9-963b-58fbb1e206c2    0.000035
+`
     d8c32585-3c35-4862-987b-aa65d36a53db    0.000033
     1f0803c8-b026-4f42-a04b-a3c43404e26f    0.000032
     5b92200b-57e1-4483-9e03-81af3fb39492    0.000032

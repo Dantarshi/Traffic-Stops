@@ -95,24 +95,7 @@ df.drop_duplicates(keep='first',inplace=True)
    
     
     
-    Location 
-     IS 370 @ IS 270                      0.001878
-    W/B IS 370 @ IS 270                  0.001782
-    RT 28 @ BLACKBERRY DR                0.001506
-    10901 WESTLAKE DRIVE                 0.001425
-    CLOPPER RD E/B @ ORCHARD HILLS DR    0.001255
-    FREDERICK RD/COLLEGE PKWY            0.001137
-    WOODFIELD RD @ EMORY GROVE RD        0.001099
-    COLESVILLE RD @ GEORGIA AVE          0.001092
-    RIVER RD AND ROYAL DOMINION          0.001013
-    WB RT.198 @ SANTINI ROAD             0.000987
-    Name: Location, dtype: float64 
     
-    
-    Latitude 
-     0.000000     0.081944
-    39.045425    0.000340
-    39.046277    0.000286
     39.058435    0.000146
     39.058402    0.000145
     39.058407    0.000140

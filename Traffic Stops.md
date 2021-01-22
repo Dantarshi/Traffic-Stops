@@ -91,36 +91,8 @@ df.drop_duplicates(keep='first',inplace=True)
 ```
 
 
-`
-     MCP    1.0
-    Name: Agency, dtype: float64 
-    
-    
-    SubAgency 
-     4th District, Wheaton                              0.238319
-    3rd District, Silver Spring                        0.196736
-    2nd District, Bethesda                             0.160313
-    6th District, Gaithersburg / Montgomery Village    0.126177
-    5th District, Germantown                           0.122675
-    1st District, Rockville                            0.115493
-    Headquarters and Special Operations                0.040282
-    S15                                                0.000003
-    W15                                                0.000002
-    Name: SubAgency, dtype: float64 
-    
-    
-    Description 
-     DRIVER FAILURE TO OBEY PROPERLY PLACED TRAFFIC CONTROL DEVICE INSTRUCTIONS                           0.064340
-    FAILURE TO DISPLAY REGISTRATION CARD UPON DEMAND BY POLICE OFFICER                                   0.041970
-    FAILURE OF INDIVIDUAL DRIVING ON HIGHWAY TO DISPLAY LICENSE TO UNIFORMED POLICE ON DEMAND            0.031235
-    DRIVING VEHICLE ON HIGHWAY WITH SUSPENDED REGISTRATION                                               0.031157
-    PERSON DRIVING MOTOR VEHICLE ON HIGHWAY OR PUBLIC USE PROPERTY ON SUSPENDED LICENSE AND PRIVILEGE    0.029258
-    DRIVER USING HANDS TO USE HANDHELD TELEPHONE WHILEMOTOR VEHICLE IS IN MOTION                         0.022070
-    DISPLAYING EXPIRED REGISTRATION PLATE ISSUED BY ANY STATE                                            0.020449
-    EXCEEDING THE POSTED SPEED LIMIT OF 30 MPH                                                           0.019691
-    DRIVING MOTOR VEHICLE ON HIGHWAY WITHOUT REQUIRED LICENSE AND AUTHORIZATION                          0.019648
-    DRIVING VEHICLE WHILE UNDER THE INFLUENCE OF ALCOHOL                                                 0.018817
-    Name: Description, dtype: float64 
+`                                       0.031157
+   
     
     
     Location 

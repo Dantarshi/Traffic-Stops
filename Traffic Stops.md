@@ -1,20 +1,6 @@
 ```python
 
-```
-
-
-```python
-import numpy as np
-import pandas as pd
-import seaborn as sns
-sns.set(color_codes=True)
-import matplotlib.pyplot as plt
-%matplotlib inline
-%config InlineBackend.figure_format = 'retina'
-import warnings
-warnings.filterwarnings('ignore')
-pd.set_option('display.max_columns', None)
-
+`
 ```
 
 

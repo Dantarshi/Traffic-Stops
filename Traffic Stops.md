@@ -1,23 +1,4 @@
-```python
-
 `
-```
-
-
-```python
-df = pd.read_csv(r'C:\Users\Ice Asortse\Desktop\Traffic_Violations.csv')
-```
-
-
-
-<
-   
-
-
-```python
-df.shape
-```
-
 
 
 

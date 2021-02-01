@@ -1,25 +1,4 @@
 
-     No     0.982502
-    Yes    0.017498
-    Name: Personal Injury, dtype: float64 
-    
-    
-    Property Damage 
-     No     0.970458
-    Yes    0.029542
-    Name: Property Damage, dtype: float64 
-    
-    
-    Fatal 
-     No     0.999703
-    Yes    0.000297
-    Name: Fatal, dtype: float64 
-    
-    
-    Commercial License 
-     No     0.968102
-    Yes    0.031898
-    Name: Commercial License, dtype: float64 
     
     
     HAZMAT 
